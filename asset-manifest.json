@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sallydo/static/css/main.a21fa346.css",
+    "main.js": "/sallydo/static/js/main.d309f915.js",
+    "static/media/porfolio.png": "/sallydo/static/media/porfolio.7612031ef0386b329ff8.png",
+    "static/media/me-header.png": "/sallydo/static/media/me-header.36e6953b51ef2c55d9e0.png",
+    "static/media/me-about.png": "/sallydo/static/media/me-about.6f1576fb3d81474982b4.png",
+    "static/media/me.png": "/sallydo/static/media/me.0dc83bedf21c5b019ce2.png",
+    "static/media/cv.pdf": "/sallydo/static/media/cv.620ea5b98486ce0e99e9.pdf",
+    "index.html": "/sallydo/index.html",
+    "main.a21fa346.css.map": "/sallydo/static/css/main.a21fa346.css.map",
+    "main.d309f915.js.map": "/sallydo/static/js/main.d309f915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a21fa346.css",
+    "static/js/main.d309f915.js"
+  ]
+}
